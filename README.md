@@ -1,5 +1,5 @@
 # parsing_petsonic
-# запуск скрипта ruby main.rb
+# запуск скрипта ruby main.rb https://www.petsonic.com/snacks-huesos-para-perros/ output
 
 
 Using moduls
